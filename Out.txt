@@ -1,0 +1,24 @@
+Anomaly performance time :
+	ID : 2 Performance time -> 29
+	ID : 10 Performance time -> 24
+	ID : 17 Performance time -> 28
+
+
+All performance time :
+	ID : 1 Performance time -> 3
+	ID : 2 Performance time -> 29
+	ID : 4 Performance time -> 3
+	ID : 3 Performance time -> 1
+	ID : 5 Performance time -> 3
+	ID : 6 Performance time -> 2
+	ID : 7 Performance time -> 3
+	ID : 8 Performance time -> 1
+	ID : 9 Performance time -> 6
+	ID : 10 Performance time -> 24
+	ID : 11 Performance time -> 11
+	ID : 12 Performance time -> 5
+	ID : 13 Performance time -> 18
+	ID : 14 Performance time -> 14
+	ID : 15 Performance time -> 9
+	ID : 16 Performance time -> 2
+	ID : 17 Performance time -> 28
